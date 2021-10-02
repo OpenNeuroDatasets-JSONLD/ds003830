@@ -1,0 +1,24 @@
+{
+	"Name":	"resting state fMRI of 17 idiopathic epileptic dogs and 20 healthy control dogs",
+	"BIDSVersion": "1.6.0",
+	"DatasetType":	"raw",
+	"License":	"CC0",
+   	 "Authors":	[
+		"Katrin M. Beckmann",
+		"Adriano Wang-Leandro",
+		"Henning Richter",
+		"Rima N. Bektas",
+		"Frank Steffen",
+		"Matthias Dennler",
+		"Ines Carrera",
+		"Sven Haller"
+		],
+    "Acknowledgements":	"We are grateful to Jens Lehmann for his technical assistance in running the postprocessing and to Manuela Wieser for her assistance in the conduction of the study.",
+    "HowToAcknowledge":	"Please cite this paper: XXX; („Increased resting state connectivity in the anterior default mode network of idiopathic epileptic dogs“ under revision at nature scintific reports)",
+    "Funding":	[
+		"This research was partially financially supported by the „Albert-Heim-Stiftung“ and the „Stiftung für Kleintiere“ der Vetsuisse-Fakultät Universität Zürich"
+		],
+	"EthicsApprovals":	[
+		"The present study was approved by the Cantonal Veterinary Office of Zurich (ZH272/16 and ZH046/20) and all procedures were performed in accordance with the relevant guidelines and regulations."
+	]
+}
